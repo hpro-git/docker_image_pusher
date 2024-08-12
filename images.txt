@@ -1,8 +1,15 @@
 nginx
 #支持私库
-gdy666/lucky
+# lucky
+gdy666/lucky:last
+# mtphotos
 mtphotos/mt-photos:last
 mtphotos/mt-photos-ai:last
 mtphotos/mt-photos-deepface:last
+# immich
+immich-app/immich-server:last
+immich-app/immich-machine-learning:last
+redis:last
+tensorchord/pgvecto-rs:last
 #支持指定架构
 
