@@ -1,4 +1,4 @@
-nginx
+#nginx
 #支持私库
 # lucky
 gdy666/lucky:last
