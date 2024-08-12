@@ -11,5 +11,7 @@ immich-app/immich-server
 immich-app/immich-machine-learning
 redis:last
 tensorchord/pgvecto-rs
+#jellyfin
+nyanmisaka/jellyfin
 #支持指定架构
 
