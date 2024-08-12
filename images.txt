@@ -10,7 +10,7 @@ mtphotos/mt-photos-deepface
 ghcr.io/immich-app/immich-server:main
 ghcr.io/immich-app/immich-machine-learning:main
 redis
-tensorchord/pgvecto-rs
+tensorchord/pgvecto-rs:pg14-v0.2.0
 # jellyfin
 nyanmisaka/jellyfin
 #支持指定架构
