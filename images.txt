@@ -1,6 +1,6 @@
 nginx
 #支持私库
-gdy666/lucky:last
+gdy666/lucky
 mtphotos/mt-photos:last
 mtphotos/mt-photos-ai:last
 mtphotos/mt-photos-deepface:last
