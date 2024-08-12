@@ -9,7 +9,7 @@ mtphotos/mt-photos-deepface
 # immich
 ghcr.io/immich-app/immich-server:main
 ghcr.io/immich-app/immich-machine-learning:main
-redis:last
+redis
 tensorchord/pgvecto-rs
 # jellyfin
 nyanmisaka/jellyfin
