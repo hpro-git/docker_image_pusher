@@ -13,5 +13,7 @@ redis
 tensorchord/pgvecto-rs:pg14-v0.2.0
 # jellyfin
 nyanmisaka/jellyfin
+# Oray
+bestoray/pgyvpn
 #支持指定架构
 
