@@ -4,16 +4,16 @@
 gdy666/lucky
 # mtphotos
 mtphotos/mt-photos
-mtphotos/mt-photos-ai
-mtphotos/mt-photos-deepface
+#mtphotos/mt-photos-ai
+#mtphotos/mt-photos-deepface
 # immich
 ghcr.io/immich-app/immich-server:main
 ghcr.io/immich-app/immich-machine-learning:main
-redis
-tensorchord/pgvecto-rs:pg14-v0.2.0
+#redis
+#tensorchord/pgvecto-rs:pg14-v0.2.0
 # jellyfin
 nyanmisaka/jellyfin
 # Oray
-bestoray/pgyvpn
+#bestoray/pgyvpn
 #支持指定架构
 
